@@ -1,0 +1,26 @@
+{
+  "version": "0.5.11",
+  "sourceRepository": "Freshxrd/Cadence",
+  "sourceCommit": "4ac4c8447a149047811bdba668870467eb774049",
+  "sourcePullRequest": "https://github.com/Freshxrd/Cadence/pull/60",
+  "platform": "windows-x64",
+  "signature": "unsigned-beta",
+  "assets": {
+    "Cadence-Setup.exe": {
+      "sha256": "9b9da6955873e29b121cc3d502bc3214f50433c9e15713e5d6f4b0bdd011c5ec",
+      "size": 125200168
+    },
+    "Cadence-Setup.exe.blockmap": {
+      "sha256": "f1ee649a5ce04ddffef4a370c34e2c41b2c5f42917b86e5e06fcd06d077c59bb",
+      "size": 133386
+    },
+    "latest.yml": {
+      "sha256": "13fac425b9f1c953051b88485d6d821bf4fb19982dc707732d23e233d3b70a80",
+      "size": 332
+    },
+    "Cadence-0.5.11-portable.exe": {
+      "sha256": "30a4ebe10e628751276c1bd784593dae0de5a33ddfa155d4abc1271c99ff72b0",
+      "size": 124965995
+    }
+  }
+}
